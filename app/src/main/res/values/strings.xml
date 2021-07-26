@@ -1,0 +1,11 @@
+<resources>
+
+    //Client Fragment
+    <string name="app_name">Gerenciador de Vendas</string>
+    <string name="client_name_hint">Digite o nome</string>
+    <string name="client_mail_hint">Email</string>
+    <string name="client_btn_add">Salvar</string>
+    <string name="client_title">Cliente</string>
+
+
+</resources>
